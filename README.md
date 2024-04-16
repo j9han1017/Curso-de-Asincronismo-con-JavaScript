@@ -28,7 +28,24 @@ En este repositorio encontrarás:
 4. ¡Disfruta aprendiendo sobre el asincronismo en JavaScript!
 
 ## Proyecto 
+### Cristian Gonzales - Página Web
+Este proyecto consiste en una página web que presenta información sobre Cristian Gonzales, un conocido youtuber colombiano.
 
+### Descripción
+La página web incluye información sobre Cristian Gonzales, como su nombre, alias en redes sociales y una breve descripción. También muestra una sección con los últimos videos del youtuber. Además, cuenta con una sección de contacto que incluye enlaces a sus perfiles en Facebook y Twitter.
+
+### Cómo Usar
+
+1. Clona este repositorio a tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web.
+3. Explora la página web para obtener información sobre Cristian Gonzales y ver sus últimos videos.
+4. Utiliza los enlaces de contacto para seguir a Cristian en sus redes sociales.
+
+### Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
 
 
 
