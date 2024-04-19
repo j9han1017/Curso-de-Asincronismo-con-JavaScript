@@ -1,4 +1,4 @@
-# Curso de Asincronismo con JavaScript
+# Curso de Asincronismo con JavaScript🚀✨
 
 Este repositorio contiene el material del curso de asincronismo con JavaScript, donde aprenderás sobre cómo trabajar con tareas asíncronas utilizando diferentes técnicas y herramientas disponibles en JavaScript.
 
